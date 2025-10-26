@@ -50,7 +50,7 @@ bot-search/
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/seuusuario/bot-search.git
+git clone https://github.com/SeredaCoding/bot-search.git
 cd bot-search
 ```
 
