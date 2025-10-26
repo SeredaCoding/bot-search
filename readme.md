@@ -82,9 +82,11 @@ openpyxl
 
 ### 🔹 Iniciar o app
 
-Na raiz do projeto:
+1. Abra o terminal e vá até a pasta do projeto Electron:
 
 ```bash
+cd caminho/para/pasta/electron
+
 npm start
 ```
 
@@ -178,11 +180,5 @@ O Electron controla o processo Python e transmite logs via **IPC (Inter Process 
 Desenvolvido por **Mateus S.**  
 💼 Projeto pessoal de automação e análise de marketplaces.
 
-📬 Contato: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+📬 Contato: [seredacoding@gmail.com](mailto:seredacoding@gmail.com)
 
----
-
-## 🧾 Licença
-
-Este projeto é distribuído sob a licença **MIT**.  
-Sinta-se à vontade para usar, modificar e contribuir!
