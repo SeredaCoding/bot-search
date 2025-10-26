@@ -180,5 +180,7 @@ O Electron controla o processo Python e transmite logs via **IPC (Inter Process 
 Desenvolvido por **Mateus S.**  
 💼 Projeto pessoal de automação e análise de marketplaces.
 
-📬 Contato: [seredacoding@gmail.com](mailto:seredacoding@gmail.com)
+📬 **Contato:**  
+🔗 [LinkedIn](https://www.linkedin.com/in/mateus-sereda/)  
+✉️ [seredacoding@gmail.com](mailto:seredacoding@gmail.com)
 
